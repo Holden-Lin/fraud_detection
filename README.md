@@ -1,5 +1,5 @@
 # fraud_detection
-Using machine learning techniques to detect frauds of loans or credit cards using [this](https://www.kaggle.com/mlg-ulb/creditcardfraud) Kaggle datasets with F1 score of **99.89%**. This F1 score should be overwhelmingly higher than that of top Kaggle kernels.
+Using machine learning techniques to detect frauds of loans or credit cards using [this](https://www.kaggle.com/mlg-ulb/creditcardfraud) Kaggle datasets with recall score of **99.89%** and a F1 of 71%. This recall score should be overwhelmingly higher than that of top Kaggle kernels.
 
 Please directly download the workbook the see the details.
 
